@@ -1,0 +1,37 @@
+_repo: South-Wind_4508
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Douglas, Norman
+    aliases:
+    - Douglass, Norman
+    - Douglas, George Norman
+    - Douglass, George Norman
+    birthdate: 1868
+    deathdate: 1952
+    gutenberg_agent_id: '1484'
+    url: http://www.gutenberg.org/2009/agents/1484
+    wikipedia: http://en.wikipedia.org/wiki/Norman_Douglas
+description: Explores the pleasures of the hedonistic life. Set on the fictional island
+  of Nepenthe (another depiction of Capri), South Wind tells the very loosely developed
+  story of Thomas Heard, Bishop of Bambopo, during the season of the sirocco (south
+  wind), which considerably affects the attitudes and behavior of the islanders. He
+  encounters people holding various unorthodox views on moral and sexual questions.
+gutenberg_issued: '2003-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4508'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Islands -- Fiction'
+- !lcsh 'Italy -- Fiction'
+- !lcsh 'Resorts -- Italy -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Cynicism -- Fiction'
+- !lcsh 'Hedonism -- Fiction'
+- GITenberg
+title: South Wind
+url: http://www.gutenberg.org/ebooks/4508
