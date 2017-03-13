@@ -1,5 +1,8 @@
 _repo: South-Wind_4508
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Douglas, Norman
@@ -17,6 +20,8 @@ description: Explores the pleasures of the hedonistic life. Set on the fictional
   story of Thomas Heard, Bishop of Bambopo, during the season of the sirocco (south
   wind), which considerably affects the attitudes and behavior of the islanders. He
   encounters people holding various unorthodox views on moral and sexual questions.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4508#South-Wind
 gutenberg_issued: '2003-10-01'
 gutenberg_type: Text
 identifiers:
